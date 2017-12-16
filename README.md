@@ -127,6 +127,7 @@
 - [Rocketr](https://twitter.com/RocketrNet/status/895318285457137664)
 - [Coinify](https://news.coinify.com/coinify-merchants-accept-bitcoin-cash)
 - [Coin Mix](https://www.reddit.com/r/btc/comments/6xn6xg/the_first_bitcoin_cash_coin_mixer_beta)
+- [Cryptonize.it](https://www.cryptonize.it)
 
 ### Informative
 
@@ -140,7 +141,7 @@
 
 - [Steam Game Keys](https://steamgamekeys.com/)
 - [DasVPS](http://www.dasvps.com/) - VPS Services
-- [Living Room of Satoshi](http://www.livingroomofsatoshi.com/?sc=bch) - Pay bills with BCC
+- [Living Room of Satoshi](http://www.livingroomofsatoshi.com/?sc=bch) - Pay bills with BCH
 - [Negash Apparell and Footwear](http://www.negash83.com/)
 - [BitVapes](https://bitvapes.com/) - Vaporizers
 - [Cryptartica](http://www.cryptartica.com/) - Bitcoin Cash merchandise
@@ -150,6 +151,7 @@
 - [Hodlmonkey](http://hodlmonkey.com/) - Cryptocurrency apparel
 - [KawaiiCrypto](https://kawaiicrypto.com/) - Cryptocurrency stickers
 - [Greenhorn Crypto](https://greenhorncrypto.com/) - Hardware wallets
+- [Cryptonize.it](https://www.cryptonize.it/) - Buy anything with BCH
 
 # Community
 
